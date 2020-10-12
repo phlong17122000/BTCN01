@@ -73,6 +73,10 @@ body{
 	clear: both;
 	display: block;
 }
+.button-area
+{
+	width: 1002px;
+}
 .button-try
 {
 	width: 343px;
